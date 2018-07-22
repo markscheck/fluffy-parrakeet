@@ -1,1 +1,2 @@
 Todo List for Sunday
+Learning Git and Finish Unix Programmers WorkBench
