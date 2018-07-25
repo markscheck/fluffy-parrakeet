@@ -1,0 +1,23 @@
+commit b600464550b4227f925879af769bd4bf3ed4cf5d
+Author: markscheck <markscheck@gmail.com>
+Date:   Tue Jul 24 07:15:56 2018 -0400
+
+    added gitignore
+
+commit a4896e2a2ca7177e3149439ba4aaba0a492795e0
+Author: markscheck <markscheck@gmail.com>
+Date:   Sun Jul 22 16:34:34 2018 -0400
+
+    Adding second file and changes
+
+commit 8dbb74367752939e96dc8316abed5bd6c8483b2d
+Author: markscheck <markscheck@gmail.com>
+Date:   Sun Jul 22 16:32:09 2018 -0400
+
+    Adding the todo file
+
+commit 134d3815b6d707b11768c7c092e272090d2dd3fd
+Author: markscheck <markscheck@gmail.com>
+Date:   Sun Jul 22 14:44:24 2018 -0400
+
+    added readme.txt
