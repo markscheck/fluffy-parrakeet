@@ -3,4 +3,4 @@ Learning Git and Finish Unix Programmers WorkBench
 Still need to do Czech Lesson today
 Tracking these changes to master git
 I added this line to the update-readme branch.
-I still have at least 5 hours left on this course
+I still have 8 hours left on this course.
