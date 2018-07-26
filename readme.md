@@ -2,9 +2,9 @@
 
 ## Native New Yorker
 
--- Grew up in the lower Catskills
--- Yankee Fan 
--- Rangers and Islander Fan, Sabres fan in October
+- Grew up in the lower Catskills
+- Yankee Fan 
+- Rangers and Islander Fan, Sabres fan in October
 
 1. Love Reading 
 2. Love Scifi 
@@ -12,9 +12,9 @@
 
 ## Favorite Books 
 
--- Lord of the Rings
--- Zen and the Art of Motorcycle Maintenance
--- 
+- Lord of the Rings
+- Zen and the Art of Motorcycle Maintenance
+- 
 
 ## Favorite Television
 
